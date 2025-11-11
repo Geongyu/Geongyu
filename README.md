@@ -37,6 +37,10 @@
   *arXiv preprint arXiv:2510.11176 (2025)*  
   [[arXiv](https://arxiv.org/abs/2510.11176)]
 
+- **KPI Challenge 2024: Advancing Glomerular Segmentation from Patch-to-Slide-Level**  
+  *arXiv preprint arXiv:2502.07288 (2025)*  
+  [[arXiv](https://arxiv.org/abs/2502.07288)]
+
 ---
 
 ## 🎓 Conference Abstracts & Presentations
