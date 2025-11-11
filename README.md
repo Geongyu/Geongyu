@@ -61,7 +61,7 @@
 ## 🎓 Education
 - **M.S. in Data Science**, Seoul National University of Science and Technology (SeoulTech)  
   Advisor : Prof. Sangheum Hwang | 2019 – 2021  
-  *Thesis — “Utilizing Contrastive Loss Functions to Improve Segmentation Model Performance” (영역분할 모델 성능 향상을 위한 대조적 손실 함수의 활용)*  
+  *Thesis — “Utilizing Contrastive Loss to Improve Segmentation Model Performance” (영역분할 모델 성능 향상을 위한 대조적 손실 함수의 활용)*  
 
 - **B.S. in Information Security**, Daejeon University | 2012 – 2019  
 
