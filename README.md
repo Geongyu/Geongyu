@@ -45,16 +45,31 @@
 
 ## 🎓 Conference Abstracts & Presentations
 - **Predicting Protein Receptor Status from H&E-stained Images in Breast Cancer**  
-  *Cancer Research 83 (7_Supplement), 5404–5404 (AACR 2023)*
+  *Cancer Research 83 (7_Supplement), 5404–5404 (AACR 2023)*  
 
 - **Recurrence Risk Prediction Based on Automatic Histopathologic Analysis of Breast Cancer Using Whole Slide Images**  
-  *Cancer Research 82 (12_Supplement), 5058–5058 (AACR 2022)*
+  *Cancer Research 82 (12_Supplement), 5058–5058 (AACR 2022)*  
 
 - **Automatic Histological Grading of Breast Cancer Resection Tissue**  
-  *Laboratory Investigation 102 (Suppl 1), 147–148 (USCAP 2022)*
+  *Laboratory Investigation 102 (Suppl 1), 147–148 (USCAP 2022)*  
 
 - **Breast Cancer Survival Analysis through the Extracted Feature from the Prostate Diagnosis Model**  
-  *Laboratory Investigation 102 (Suppl 1), 148–149 (USCAP 2022)*
+  *Laboratory Investigation 102 (Suppl 1), 148–149 (USCAP 2022)*  
+
+---
+
+## 🎓 Education
+- **M.S. in Data Science**, Seoul National University of Science and Technology (SeoulTech)  
+  Advisor : Prof. Sang-Heum Hwang | 2021 – 2023  
+  *Thesis — “Utilizing Contrastive Loss Functions to Improve Segmentation Model Performance” (영역분할 모델 성능 향상을 위한 대조적 손실 함수의 활용)*  
+
+- **B.S. in Information Security**, Daejeon University | 2013 – 2019  
+
+---
+
+## 🏅 Honors & Awards
+- 🥈 **2nd place** in *glomeruli segmentation* at the **2024 KPI Challenge** (whole-slide image level)  
+- 🏡 **7th place overall** on the leaderboard of the *2018 Dacon × Zigbang Apartment Price Prediction* competition  
 
 ---
 
@@ -70,11 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Geongyu&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geongyu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🏆 Highlights
-- 🥈 2위 — KPI Challenge 2024 (Glomeruli Segmentation)  
 
 ---
 
