@@ -71,9 +71,6 @@
 
 ### 🏆 Highlights
 - 🥈 2위 — KPI Challenge 2024 (Glomeruli Segmentation)  
-- 🎯 AACR 2023 — *Predicting Protein Receptor Status from H&E Images*  
-- 📄 *Scientific Reports* (Nature, 2025) publication  
-- 🧠 *arXiv 2025* — G2L Foundation Model Preprint  
 
 ---
 
