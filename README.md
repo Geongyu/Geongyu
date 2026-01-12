@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Geongyu Lee</h1>
-<h3 align="center">AI Researcher | Computational Pathology · Multi-Omics</h3>
+<h3 align="center">AI Scientist – Proteomics-Driven Drug Discovery & Virtual Cell Modeling</h3>
 
 <p align="center">
   <a href="https://github.com/Geongyu">
@@ -9,14 +9,24 @@
 
 ---
 
-### 🧠 About Me
-- AI researcher focusing on **computational pathology** and **multi-omics modeling**  
-- Interested in **digital pathology**, **proteomic integration**, and **calibration in deep learning**  
-- Exploring **large-scale biomedical foundation models** and **cell perturbation prediction**
+## 🧠 About Me
+- AI scientist building **virtual cell models** to predict **drug response and protein perturbation**
+- Focused on **proteomics-driven drug discovery**, **TPD (Targeted Protein Degradation)**, and **multimodal omics modeling**
+- Integrating **proteomics, transcriptomics, and pathology** for **mechanism-aware therapeutic prediction**
+- Interested in **large-scale biomedical foundation models** and **cell-level perturbation learning**
 
 ---
 
-## 🔬 Journal Publications
+## 🧬 Research Focus
+- Virtual Cell & Virtual Patient modeling  
+- Proteomics-based drug response and target engagement  
+- TPD / ADC / small-molecule perturbation modeling  
+- Multimodal omics + pathology foundation models  
+- Cross-cohort and cross-modality calibration  
+
+---
+
+## 🔬 Selected Journal Publications
 - **Assessing the risk of recurrence in early-stage breast cancer through H&E-stained whole slide images**  
   *Scientific Reports (Nature Publishing Group), 2025*  
   [[DOI](https://www.nature.com/articles/s41598-025-16679-x)]
@@ -32,14 +42,21 @@
 
 ---
 
-## 🧩 Preprints
+## 🧩 Preprints & Workshop Papers
 - **G2L: From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation**  
-  *arXiv preprint arXiv:2510.11176 (2025)*  
+  *Accepted to W3PHIAI @ AAAI 2026 (Workshop on Health Intelligence)*  
   [[arXiv](https://arxiv.org/abs/2510.11176)]
 
 - **KPI Challenge 2024: Advancing Glomerular Segmentation from Patch-to-Slide-Level**  
   *arXiv preprint arXiv:2502.07288 (2025)*  
   [[arXiv](https://arxiv.org/abs/2502.07288)]
+
+---
+
+## 🎯 What I’m Building Now
+- **Proteomics-conditioned virtual cell models** for predicting drug response and degradation  
+- **TPD and ADC perturbation modeling** using multi-omics and pathway-level supervision  
+- **Disease-specific foundation models** aligned with real-world pharmacological readouts  
 
 ---
 
@@ -60,43 +77,27 @@
 
 ## 🎓 Education
 - **M.S. in Data Science**, Seoul National University of Science and Technology (SeoulTech)  
-  Advisor : Prof. Sangheum Hwang | 2019 – 2021  
-  *Thesis — “Utilizing Contrastive Loss to Improve Segmentation Model Performance” (영역분할 모델 성능 향상을 위한 대조적 손실 함수의 활용)*  
+  Advisor: Prof. Sangheum Hwang  
+  *Thesis — Utilizing Contrastive Loss to Improve Segmentation Model Performance*
 
-- **B.S. in Information Security**, Daejeon University | 2012 – 2019  
+- **B.S. in Information Security**, Daejeon University  
 
 ---
 
 ## 🏅 Honors & Awards
-- 🥈 **2nd place** in *glomeruli segmentation* at the **2024 KPI Challenge** (whole-slide image level)  
-- 🏡 **7th place overall** on the leaderboard of the *2018 Dacon × Zigbang Apartment Price Prediction* competition  
+- 🥈 **2nd place**, KPI Challenge 2024 (whole-slide image level)  
+- 🏡 **7th place overall**, Dacon × Zigbang Apartment Price Prediction  
 
 ---
 
-### 🧰 Languages & Tools
+## 🧰 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,r,js,git,docker,linux,fastapi,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geongyu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geongyu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contact
-<p align="left">
-  <a href="mailto:rjsrb365@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rjsrb365@gmail.com-D14836?logo=gmail&style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/geongyu-lee/">
-    <img src="https://img.shields.io/badge/LinkedIn-Geongyu%20Lee-blue?logo=linkedin&style=for-the-badge"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=43BuluYAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-43BuluYAAAAJ-4285F4?logo=google-scholar&style=for-the-badge"/>
-  </a>
-</p>
+- 📧 rjsrb365@gmail.com  
+- 🔗 https://www.linkedin.com/in/geongyu-lee/  
+- 🎓 https://scholar.google.com/citations?user=43BuluYAAAAJ  
