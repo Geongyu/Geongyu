@@ -109,13 +109,6 @@ I leverage **Deep Learning** to decode complex tissue microenvironments from **G
 
 ---
 
-## 🧰 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,r,js,git,docker,linux,fastapi,vscode" />
-</p>
-
----
-
 ### 📫 Contact
 - 📧 rjsrb365@gmail.com  
 - 🔗 https://www.linkedin.com/in/geongyu-lee/  
