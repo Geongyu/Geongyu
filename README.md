@@ -52,4 +52,5 @@ My work sits at the intersection of **gigapixel WSI analysis**, **representation
 
 ## 📫 Contact
 
-[📧 rjsrb365@gmail.com](mailto:rjsrb365@gmail.com) · [LinkedIn](https://www.linkedin.com/in/geongyu-lee) · [Google Scholar](https://scholar.google.com/citations?user=43BuluYAAAAJ)
+<!-- temporarily hidden: [📧 rjsrb365@gmail.com](mailto:rjsrb365@gmail.com) · [LinkedIn](https://www.linkedin.com/in/geongyu-lee) · -->
+[Google Scholar](https://scholar.google.com/citations?user=43BuluYAAAAJ)
