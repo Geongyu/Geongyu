@@ -4,20 +4,20 @@
 
 **Portfolio: https://geongyu.github.io** ([English](https://geongyu.github.io/) · [한국어](https://geongyu.github.io/ko/) · [日本語](https://geongyu.github.io/ja/))
 
-I am a machine learning researcher in computational pathology and multi-omics for oncology. I work on predicting molecular measurements such as gene expression, receptor status and assay-based recurrence risk groups from routine H&E slides, and on testing whether these predictions are reliable across sites, cohorts and unseen drugs.
+I develop machine learning models that predict molecular measurements from pathology slides and, in my current industry work, drug response from proteomics. I focus on whether these predictions remain valid at new hospitals and for drugs not seen in training.
 
-I have 5+ years of industry R&D experience. I am an AI Researcher at **OMIXAI** (formerly RadiSen), where I lead multi-omics model R&D that combines proteomics and RNA with H&E for drug-response prediction (in progress). Before that, at **Deep Bio**, I built a WSI pipeline and contributed to pre-deployment model validation and regulatory documentation for a medical-AI product submitted to Korea's MFDS.
+I have 5+ years of industry R&D experience. I am an AI Researcher at **OMIXAI** (formerly RadiSen), where I lead R&D on a multi-omics model that combines proteomics, RNA and H&E to predict drug response (in progress). Before that, at **Deep Bio**, I built a WSI pipeline and contributed to pre-deployment model validation and regulatory documentation for a medical-AI product submitted to Korea's MFDS.
 
 ---
 
 ### Highlights
 
-- **MoSPR** (preprint 2026, co-first author). Predicts gene expression from H&E using morpho-spatial macrostates and low-rank molecular programs. Best of 15 methods on three TCGA cancers (gene-wise PCC, BRCA 0.413). [arXiv](https://arxiv.org/abs/2609.34280) · [code](https://github.com/Radisen-Panthera/MoSPR)
-- **Predictability is not substitutability** (BIOINFO/GIW ISCB-Asia 2026, accepted poster, first author). One pre-registered protocol with site-disjoint hold-outs and label-shuffle controls was applied to 5 cancers. Of ~15 endpoints, only HNSC HPV status (AUROC 0.959) met the confirmation criterion.
+- **MoSPR** (preprint 2026, co-first author). Predicts gene expression from H&E using morpho-spatial macrostates and low-rank molecular programs. Ranked 1st of 15 methods in the paper's benchmark on three TCGA cancers (gene-wise PCC, BRCA 0.413). [arXiv](https://arxiv.org/abs/2609.34280) · [code](https://github.com/Radisen-Panthera/MoSPR)
+- **Predictability is not substitutability** (BIOINFO/GIW ISCB-Asia 2026, accepted poster, first author). One pre-registered protocol with site-disjoint hold-outs and label-shuffle controls was applied to 5 cancers. Of ~15 endpoints, only HNSC HPV status (AUROC 0.959) met the pre-registered confirmation criterion. Most of the others were reported as inconclusive.
 - **Scientific Reports 2025** (first author). Prediction of 21-gene recurrence-assay risk groups in early-stage breast cancer from H&E alone (n=125, 2 hospitals). Sensitivity L / I / H was 0.86 / 0.75 / 0.53. [paper](https://www.nature.com/articles/s41598-025-16679-x)
 - **G2L** (AAAI 2026 Workshop W3PHIAI, oral, co-author). Distillation of giga-scale pathology foundation models into cancer-specific models. [arXiv](https://arxiv.org/abs/2510.11176)
 - **KPIs 2024 Challenge** (MICCAI 2024). The Deep Bio team placed 2nd in the whole-slide track (glomerular segmentation). Co-author of the challenge report in *Medical Image Analysis* 2026.
-- **OMIXAI**. Proteomics drug-response model evaluated leave-drug-out, so no test compound is seen in training (Pearson ≥ 0.65). Participating researcher in a Korea–Japan Pan-Sarcoma proteogenomics collaboration. Co-led OMIXAI's team entry in the Arc Institute Virtual Cell Challenge.
+- **OMIXAI**. Proteomics drug-response model evaluated leave-drug-out, so no test compound is seen in training (Pearson ≥ 0.65; internal R&D, unpublished). Participating researcher in a Korea–Japan Pan-Sarcoma proteogenomics collaboration. Co-led OMIXAI's team entry in the Arc Institute Virtual Cell Challenge.
 - Reviewer, ML4H 2026.
 
 ---
